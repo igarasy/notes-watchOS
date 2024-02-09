@@ -15,10 +15,8 @@ A simple app created to practice some SwiftUI skills.
 
 
 
-Building
+#Building#
 
-Clone this repository
-
-Open ios-pwnagotchi.xcodeproj in Xcode
-
-Build/Run the app for your desired target
+1.Clone this repository
+2.Open ios-pwnagotchi.xcodeproj in Xcode
+3.Build/Run the app for your desired target
